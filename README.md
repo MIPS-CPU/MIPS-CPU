@@ -1,3 +1,8 @@
-# MIPS-CPU
+# CPU Designs in Logisim  
 
-This project contains two processor designs implemented in Logisim: a single-cycle CPU and a pipelined CPU.
+## Overview  
+This project contains two processor designs implemented in Logisim:  
+- **Single-Cycle CPU**  
+- **Pipelined CPU**  
+
+The repository is intended for educational purposes to demonstrate and compare single-cycle and pipelined processor architectures.  
